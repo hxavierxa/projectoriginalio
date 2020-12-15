@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/projectoriginalio/static/css/main.b018d074.chunk.css",
-    "main.js": "/projectoriginalio/static/js/main.b7f82fe5.chunk.js",
-    "main.js.map": "/projectoriginalio/static/js/main.b7f82fe5.chunk.js.map",
+    "main.css": "/projectoriginalio/static/css/main.65b4ff43.chunk.css",
+    "main.js": "/projectoriginalio/static/js/main.758d63c9.chunk.js",
+    "main.js.map": "/projectoriginalio/static/js/main.758d63c9.chunk.js.map",
     "runtime-main.js": "/projectoriginalio/static/js/runtime-main.0ea00c13.js",
     "runtime-main.js.map": "/projectoriginalio/static/js/runtime-main.0ea00c13.js.map",
-    "static/css/2.7925bee4.chunk.css": "/projectoriginalio/static/css/2.7925bee4.chunk.css",
-    "static/js/2.de1ae189.chunk.js": "/projectoriginalio/static/js/2.de1ae189.chunk.js",
-    "static/js/2.de1ae189.chunk.js.map": "/projectoriginalio/static/js/2.de1ae189.chunk.js.map",
+    "static/css/2.dd9e3b89.chunk.css": "/projectoriginalio/static/css/2.dd9e3b89.chunk.css",
+    "static/js/2.ff288c29.chunk.js": "/projectoriginalio/static/js/2.ff288c29.chunk.js",
+    "static/js/2.ff288c29.chunk.js.map": "/projectoriginalio/static/js/2.ff288c29.chunk.js.map",
     "index.html": "/projectoriginalio/index.html",
-    "static/css/2.7925bee4.chunk.css.map": "/projectoriginalio/static/css/2.7925bee4.chunk.css.map",
-    "static/css/main.b018d074.chunk.css.map": "/projectoriginalio/static/css/main.b018d074.chunk.css.map",
-    "static/js/2.de1ae189.chunk.js.LICENSE.txt": "/projectoriginalio/static/js/2.de1ae189.chunk.js.LICENSE.txt",
+    "static/css/2.dd9e3b89.chunk.css.map": "/projectoriginalio/static/css/2.dd9e3b89.chunk.css.map",
+    "static/css/main.65b4ff43.chunk.css.map": "/projectoriginalio/static/css/main.65b4ff43.chunk.css.map",
+    "static/js/2.ff288c29.chunk.js.LICENSE.txt": "/projectoriginalio/static/js/2.ff288c29.chunk.js.LICENSE.txt",
     "static/media/footer.css": "/projectoriginalio/static/media/Montserrat.4a799b11.ttf",
+    "static/media/productsuge.css": "/projectoriginalio/static/media/ellipse.7eb1261e.png",
     "static/media/prod01.d2c17fee.png": "/projectoriginalio/static/media/prod01.d2c17fee.png",
     "static/media/prod02.66f97899.png": "/projectoriginalio/static/media/prod02.66f97899.png",
     "static/media/prod02.eed3a411.png": "/projectoriginalio/static/media/prod02.eed3a411.png",
@@ -22,9 +23,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0ea00c13.js",
-    "static/css/2.7925bee4.chunk.css",
-    "static/js/2.de1ae189.chunk.js",
-    "static/css/main.b018d074.chunk.css",
-    "static/js/main.b7f82fe5.chunk.js"
+    "static/css/2.dd9e3b89.chunk.css",
+    "static/js/2.ff288c29.chunk.js",
+    "static/css/main.65b4ff43.chunk.css",
+    "static/js/main.758d63c9.chunk.js"
   ]
 }
