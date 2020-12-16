@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/projectoriginalio/static/css/main.2345722e.chunk.css",
+    "main.css": "/projectoriginalio/static/css/main.d7b06498.chunk.css",
     "main.js": "/projectoriginalio/static/js/main.8409187e.chunk.js",
     "main.js.map": "/projectoriginalio/static/js/main.8409187e.chunk.js.map",
     "runtime-main.js": "/projectoriginalio/static/js/runtime-main.0ea00c13.js",
@@ -10,7 +10,7 @@
     "static/js/2.01d03075.chunk.js.map": "/projectoriginalio/static/js/2.01d03075.chunk.js.map",
     "index.html": "/projectoriginalio/index.html",
     "static/css/2.bcdced8f.chunk.css.map": "/projectoriginalio/static/css/2.bcdced8f.chunk.css.map",
-    "static/css/main.2345722e.chunk.css.map": "/projectoriginalio/static/css/main.2345722e.chunk.css.map",
+    "static/css/main.d7b06498.chunk.css.map": "/projectoriginalio/static/css/main.d7b06498.chunk.css.map",
     "static/js/2.01d03075.chunk.js.LICENSE.txt": "/projectoriginalio/static/js/2.01d03075.chunk.js.LICENSE.txt",
     "static/media/footer.css": "/projectoriginalio/static/media/Montserrat.4a799b11.ttf",
     "static/media/productsugemobile.css": "/projectoriginalio/static/media/ellipse.7eb1261e.png",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.0ea00c13.js",
     "static/css/2.bcdced8f.chunk.css",
     "static/js/2.01d03075.chunk.js",
-    "static/css/main.2345722e.chunk.css",
+    "static/css/main.d7b06498.chunk.css",
     "static/js/main.8409187e.chunk.js"
   ]
 }
