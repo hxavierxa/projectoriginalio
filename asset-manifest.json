@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/projectoriginalio/static/css/main.d7b06498.chunk.css",
-    "main.js": "/projectoriginalio/static/js/main.8409187e.chunk.js",
-    "main.js.map": "/projectoriginalio/static/js/main.8409187e.chunk.js.map",
+    "main.css": "/projectoriginalio/static/css/main.db94f0be.chunk.css",
+    "main.js": "/projectoriginalio/static/js/main.6185d9e9.chunk.js",
+    "main.js.map": "/projectoriginalio/static/js/main.6185d9e9.chunk.js.map",
     "runtime-main.js": "/projectoriginalio/static/js/runtime-main.0ea00c13.js",
     "runtime-main.js.map": "/projectoriginalio/static/js/runtime-main.0ea00c13.js.map",
     "static/css/2.bcdced8f.chunk.css": "/projectoriginalio/static/css/2.bcdced8f.chunk.css",
-    "static/js/2.01d03075.chunk.js": "/projectoriginalio/static/js/2.01d03075.chunk.js",
-    "static/js/2.01d03075.chunk.js.map": "/projectoriginalio/static/js/2.01d03075.chunk.js.map",
+    "static/js/2.743e78f7.chunk.js": "/projectoriginalio/static/js/2.743e78f7.chunk.js",
+    "static/js/2.743e78f7.chunk.js.map": "/projectoriginalio/static/js/2.743e78f7.chunk.js.map",
     "index.html": "/projectoriginalio/index.html",
     "static/css/2.bcdced8f.chunk.css.map": "/projectoriginalio/static/css/2.bcdced8f.chunk.css.map",
-    "static/css/main.d7b06498.chunk.css.map": "/projectoriginalio/static/css/main.d7b06498.chunk.css.map",
-    "static/js/2.01d03075.chunk.js.LICENSE.txt": "/projectoriginalio/static/js/2.01d03075.chunk.js.LICENSE.txt",
+    "static/css/main.db94f0be.chunk.css.map": "/projectoriginalio/static/css/main.db94f0be.chunk.css.map",
+    "static/js/2.743e78f7.chunk.js.LICENSE.txt": "/projectoriginalio/static/js/2.743e78f7.chunk.js.LICENSE.txt",
     "static/media/footer.css": "/projectoriginalio/static/media/Montserrat.4a799b11.ttf",
-    "static/media/productsugemobile.css": "/projectoriginalio/static/media/ellipse.7eb1261e.png",
+    "static/media/productsuge.css": "/projectoriginalio/static/media/ellipse.7eb1261e.png",
     "static/media/prod01.d2c17fee.png": "/projectoriginalio/static/media/prod01.d2c17fee.png",
     "static/media/prod02.66f97899.png": "/projectoriginalio/static/media/prod02.66f97899.png",
     "static/media/prod02.eed3a411.png": "/projectoriginalio/static/media/prod02.eed3a411.png",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.0ea00c13.js",
     "static/css/2.bcdced8f.chunk.css",
-    "static/js/2.01d03075.chunk.js",
-    "static/css/main.d7b06498.chunk.css",
-    "static/js/main.8409187e.chunk.js"
+    "static/js/2.743e78f7.chunk.js",
+    "static/css/main.db94f0be.chunk.css",
+    "static/js/main.6185d9e9.chunk.js"
   ]
 }
